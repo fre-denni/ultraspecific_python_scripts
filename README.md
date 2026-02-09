@@ -10,3 +10,8 @@ A list of them are:
   - fetchData.py will check a .csv file called "links.csv" and download the associated databases
   - createExcels.py will then call unifyComp.py and unifyEco.py
   - These last two scripts will get two specific datasets as .csv and then transform them in .xlsx file with more sheets inside.
+
+
+  ---
+
+  # ALL OF THESE SCRIPTS ARE FREE-TO-USE AND FREE-TO-MISUSE. IF YOU FIND A WAY TO USE THEM THAT IS NOT ULTRA-SPECIFIC, PLEASE LET ME KNOW I'M CURIOUS
