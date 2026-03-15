@@ -10,7 +10,7 @@ A list of them are:
   - fetchData.py will check a .csv file called "links.csv" and download the associated databases
   - createExcels.py will then call unifyComp.py and unifyEco.py
   - These last two scripts will get two specific datasets as .csv and then transform them in .xlsx file with more sheets inside.
-
+- convert-to-webp.py : This script check if a folder called "png" and one called "webp" exists: if no it creates them, if yes it checks all the files inside the png folder (and the directories) -> convert the files to `.webp` and it copy them inside the same folder structure in the webp folder
 
   ---
 
