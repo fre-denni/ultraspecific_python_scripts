@@ -1,4 +1,4 @@
-Ultra-specific Python scripts
+## Ultra-specific Python scripts
 
 I have a bunch of ultra-specific and weird Python scripts lying around. I’m gonna start putting them here to share and have a repository of them. Perhaps someone will have a less specific use for them, or maybe some of them are actually useful.
 
@@ -15,4 +15,4 @@ I have a bunch of ultra-specific and weird Python scripts lying around. I’m go
 
 ---
 
-ALL OF THESE SCRIPTS ARE FREE-TO-USE AND FREE-TO-MISUSE. IF YOU FIND A WAY TO USE THEM THAT IS NOT ULTRA-SPECIFIC, PLEASE LET ME KNOW. I’M CURIOUS. You can use it for whatever purpose you like, except evil.
+# ALL OF THESE SCRIPTS ARE FREE-TO-USE AND FREE-TO-MISUSE. IF YOU FIND A WAY TO USE THEM THAT IS NOT ULTRA-SPECIFIC, PLEASE LET ME KNOW. I’M CURIOUS. You can use it for whatever purpose you like, except evil.
